@@ -309,6 +309,7 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    text-align: center;
 }
 
 .navbar-brand img {
