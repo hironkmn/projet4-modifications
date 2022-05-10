@@ -848,10 +848,6 @@ h4 {
     text-align: center;
 }
 
-.citation q {
-    font-style: italic;
-}
-
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
