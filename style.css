@@ -844,8 +844,12 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+blockquote{
+    color: #000;
+}
 .citation {
     text-align: center;
+    color: #000;
 }
 
 @media (max-width: 1024px) {
